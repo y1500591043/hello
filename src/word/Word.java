@@ -5,6 +5,6 @@ public class Word {
 
 
 
-        System.out.print("qqqqqqqq");
+        System.out.print("ssssss");
     }
 }
